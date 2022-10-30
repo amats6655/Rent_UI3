@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Rent_UI3 (Package)": {
+      "commandName": "MsixPackage",
+      "remoteDebugEnabled": false
+    },
+    "Rent_UI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
